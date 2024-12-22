@@ -1,0 +1,1 @@
+This repository contains a simple Perl script demonstrating a common issue with hash iteration. Perl hashes do not guarantee a specific order when iterating through their keys. This example shows how this can lead to unexpected results if the order of elements is assumed to be consistent.  The solution demonstrates a technique to maintain order if needed.
